@@ -56,7 +56,7 @@ ul a {
 
 
 ul li {
-	float: right;
+	float: left;
 	list-style: none;
 	padding: 20px;
 	margin-top: 20px;
@@ -66,7 +66,7 @@ ul li {
 
 
 ul li a {
-	float: left;
+	float: right;
 	text-decoration: none;
 	color: #fff;
 	font-family: Arial;
