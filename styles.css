@@ -364,7 +364,7 @@ h4 {
 
 
 .centered2 {
-	margin-left: 180px;
+	margin-left: 50px;
    margin-top: -170px;
   transform: translate(-50%, -50%);
   color: white;
@@ -798,7 +798,7 @@ nav {
 	}
 
 	.centered2 {
-		padding-left: 140px;
+		padding-left: -160px;
 	}
 	
 
@@ -1071,7 +1071,7 @@ orm input, [type="submit"] {
 	margin-left: 20px;
 	padding-top: 10px;
 	width: 90%;
-	gap: -9px;
+	gap: -18px;
 }
 	
 
@@ -1100,7 +1100,7 @@ orm input, [type="submit"] {
 	.centered2 {
   position: absolute;
   margin-top: -175px;
-  margin-left: 40px;
+  margin-left: 55px;
   display: block;
   transform: transla te(-50%, -50%);
   color: white;
@@ -1447,9 +1447,9 @@ h1 {
 .centered2 {
   position: absolute;
   margin-top: -175px;
-  margin-left: 130px;
+  margin-left: 80px;
   display: block;
-  transform: transla te(-50%, -50%);
+  transform: translate(-50%, -50%);
   color: white;
   font-family: sans-serif;
   font-weight: 900;
@@ -1479,7 +1479,7 @@ h3 {
 .centered2 {
   position: absolute;
   margin-top: -175px;
-  margin-left: 110px;
+  margin-left: 60px;
   display: block;
   transform: transla te(-50%, -50%);
   color: white;
@@ -1520,13 +1520,13 @@ h3 {
 	.centered2 {
   position: absolute;
   margin-top: -175px;
-  margin-left: 90px;
+  margin-left: 40px;
   display: block;
   transform: transla te(-50%, -50%);
   color: white;
   font-family: sans-serif;
   font-weight: 900;
-  font-size: 20px;
+  font-size: 17px;
 }
 
 
